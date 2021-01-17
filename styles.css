@@ -227,7 +227,7 @@ h5.tagline{
         font-size: 1.75rem;
     }
 
-    .sign-up{
+    a.btn.sign-up{
         margin-right: -7rem;
         padding: 0.5rem 2rem;
     }
@@ -250,6 +250,7 @@ h5.tagline{
     
     .main-header{
         margin-top: -2.5rem;
+        margin-bottom: 4rem;
     }   
 
     .hero{
