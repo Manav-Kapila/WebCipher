@@ -221,6 +221,7 @@ input#hitEnter{
     form{
         width: 80%;
         padding: 2em;
+        z-index: 23;
     }
     form:hover{
         margin: 1rem;
@@ -232,6 +233,18 @@ input#hitEnter{
         left: 1rem;
         display: block;
     }
+  
+    .drop{
+      z-index-1;
+  }
+  
+   .container{
+      margin-top: 65%;
+  }
+  
+  .encMsg{
+      padding:1rem;
+  }
 
     input#hitEnter{
         width: 48vw;
