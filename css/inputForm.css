@@ -245,10 +245,4 @@ input#hitEnter{
     form:hover{
       margin: 0rem;
     }
-    .container
-    {
-    position: fixed;
-    top: 1%;
-    left: 10%;
-  }
 }
