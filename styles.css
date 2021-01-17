@@ -247,6 +247,10 @@ h5.tagline{
         letter-spacing: 1px;
         word-spacing: 1em;
     }
+    
+    .main-header{
+        margin-top: -2.5rem;
+    }   
 
     .hero{
         display: flex;
@@ -271,6 +275,6 @@ h5.tagline{
     }
     
     .container{
-    margin-bottom: 5rem;
+        margin-bottom: 5rem;
 }
 }
