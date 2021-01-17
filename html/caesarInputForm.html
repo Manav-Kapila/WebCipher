@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ceasar Cipher Form</title>
+    <link rel="stylesheet" href="../css/inputForm.css"> 
+</head>
+<body>
+<a href="../index.html" class="logo">Web<span class="logoSpan">Cipher</span></a>
+<div class="container">
+<!-- INPUT FORM -->
+    <form>
+        <p>Caesar Cipher</p>
+        <input type="text" placeholder="Your Message" id="plainText" required><br>
+        <input type="text" placeholder="Enter Key Value" id="secretKey" required><br>
+        <input type="button" value="Encrypt Message" id="hitEnter" onclick="caesarEncrypt()"><br>
+        <a href="dashboard.html">Back To Dashboard</a>
+    </form>
+    <h3 class="encMsg hideMsg" id="dispCipher"></h3>
+<!--    TRANSPARENT BOXES FOR GLASS MORPH EFFECT -->
+    <div class="drops">
+        <div class="drop drop-1"></div>
+        <div class="drop drop-2"></div>
+        <div class="drop drop-3"></div>
+        <div class="drop drop-4"></div>
+        <div class="drop drop-5"></div>
+    </div>
+</div>
+<script src="../js/inputForm.js"></script>
+</body>
+</html>
