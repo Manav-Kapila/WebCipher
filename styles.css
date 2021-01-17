@@ -235,9 +235,9 @@ h5.tagline{
     .popup .content{
         position: absolute;
         top: 5%;
-        left: 5%;
+        left: 4%;
         border-radius: 10px;
-        width: 34rem;
+        width: 32rem;
         height: 51rem;
         padding: 5rem 1rem;
     }
