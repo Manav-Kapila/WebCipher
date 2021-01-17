@@ -227,11 +227,12 @@ input#hitEnter{
         margin: 1rem;
         left: -1rem;
     }
-    .logo{
+    a.logo{
         font-size: 1.5rem;
         top: 2.5rem;
         left: 1rem;
         display: block;
+        margin-bottom: 2rem;
     }
 
     input#hitEnter{
