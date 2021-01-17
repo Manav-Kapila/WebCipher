@@ -235,7 +235,7 @@ input#hitEnter{
     }
   
     div.drop.drop-2{
-      z-index-1;
+      z-index:-1;
   }
   
    .container{
