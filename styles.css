@@ -211,6 +211,7 @@ h5.tagline{
 
     .content-wrapper{
         max-width: 60rem;
+        margin-bottom: 2rem;
     }
 
     h5.tagline{
