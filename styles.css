@@ -264,13 +264,13 @@ h5.tagline{
         margin: 3rem auto;
         text-align: center;
         height: 20vh;
-        width: 50vw;
+        width: 40vw;
     }
     
     div.hero-image{
         height: 10%;
         width: 43%;
-        padding: 7rem 8rem;
+        padding: 6rem 6rem;
         right: 24rem;
         margin: auto;
     }
