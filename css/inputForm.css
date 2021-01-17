@@ -221,28 +221,19 @@ input#hitEnter{
     form{
         width: 80%;
         padding: 2em;
-        top: 8rem;
     }
     form:hover{
         margin: 1rem;
         left: -1rem;
     }
-    a.logo{
+    .logo{
         font-size: 1.5rem;
         top: 2.5rem;
         left: 1rem;
         display: block;
-        margin-bottom: 2rem;
     }
 
     input#hitEnter{
         width: 48vw;
-    }
-    h3#dispCipher.encMsg{
-        margin-top: 10rem;
-        padding: 1rem;
-    }
-    form:hover{
-      margin: 0rem;
     }
 }
