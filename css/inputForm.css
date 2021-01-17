@@ -221,6 +221,7 @@ input#hitEnter{
     form{
         width: 80%;
         padding: 2em;
+        top: 8rem;
     }
     form:hover{
         margin: 1rem;
