@@ -268,4 +268,8 @@ h5.tagline{
         right: 24rem;
         margin: auto;
     }
+    
+    .container{
+    margin-bottom: 5rem;
+}
 }
