@@ -237,4 +237,7 @@ input#hitEnter{
     input#hitEnter{
         width: 48vw;
     }
+  .encMsg{
+    margin-top: 10rem;
+  }
 }
