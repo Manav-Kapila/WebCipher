@@ -241,4 +241,8 @@ input#hitEnter{
     h3#dispCipher.encMsg{
     margin-top: 10rem;
   }
+  form:hover
+{
+    margin: 0rem;
+}
 }
