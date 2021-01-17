@@ -239,10 +239,16 @@ input#hitEnter{
         width: 48vw;
     }
     h3#dispCipher.encMsg{
-    margin-top: 10rem;
+        margin-top: 10rem;
+        padding: 1rem;
+    }
+    form:hover{
+      margin: 0rem;
+    }
+    .container
+    {
+    position: fixed;
+    top: 1%;
+    left: 10%;
   }
-  form:hover
-{
-    margin: 0rem;
-}
 }
