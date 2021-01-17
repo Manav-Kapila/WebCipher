@@ -234,7 +234,7 @@ input#hitEnter{
         display: block;
     }
   
-    .drop{
+    div.drop.drop-2{
       z-index-1;
   }
   
