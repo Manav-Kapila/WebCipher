@@ -237,7 +237,7 @@ input#hitEnter{
     input#hitEnter{
         width: 48vw;
     }
-  .encMsg{
+    h3#dispCipher.encMsg{
     margin-top: 10rem;
   }
 }
